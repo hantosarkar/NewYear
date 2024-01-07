@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
+
+* {
+
+    font-family: Work Sans;
+
+}
+
+.minheader {
+
+    max-width: 1600px;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+.chiledhader {
+
+    width: 50%;
+
+
+}
+
+.headerofChild {
+    color: var(--Dark-01, #151414);
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    padding: 200px 30px 0px;
+
+
+}
+
+.header-of-chiled-details {
+
+    color: #444343;
+    text-align: right;
+    font-family: Work Sans;
+    padding: 24px 0px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.btn-primay {
+
+    border-radius: 5px;
+    background: #F15B22;
+    border: none;
+    padding: 20px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+
+}
+
+.failures {
+
+
+    width: 100%;
+}
+
+.failures-main {
+
+
+    max-width: 1600px;
+}
+
+
+.failures {
+
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    background-color: #F15B22;
+
+}
+
+.failures-image {
+
+    padding: 140px 50px 140px 0px;
+}
+
+.failureoftheyewar {
+
+    width: 100%;
+    margin: 370px 320px 100px 20px;
+
+}
+
+.failureoftheyewar {}
+
+.hearof-failior {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.failior-details {
+
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.list-itam li {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.myPlan {
+    margin: 50px 0px 0px 0px;
+    max-width: 1600px;
+
+}
+
+.my-all-paln {
+
+    margin: 100px 200px 100px;
+
+}
+
+.plan-header {
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.my-all-paln {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+.mayplans img{
+padding-left: 30px;
+
+}
+
+.myplans-haser {
+
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.myplan-details {
+
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+
+}
